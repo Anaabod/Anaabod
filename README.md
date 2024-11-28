@@ -11,3 +11,4 @@ Anaabod/Anaabod is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 ![1000004787](https://github.com/user-attachments/assets/8450fd4c-fd70-49c3-87d6-2f63b911cf1f)
 --->
+وحذف التخزين الداخلي والبرامج الضاره
